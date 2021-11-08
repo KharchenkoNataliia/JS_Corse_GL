@@ -6,7 +6,7 @@ console.log(A)
 
 let age=2;
 let name="Natalia";
-//name="Natalia";
+
 console.log('It is name',name);
 
 
@@ -14,7 +14,7 @@ let Temp;
 let temp=undefined;
 console.log('res=',temp==Temp);
 
-console.log(typeof name) //повертає тип змінної
+console.log(typeof name) 
 age=undefined;
 
 let bool=true;
