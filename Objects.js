@@ -80,8 +80,9 @@ const school= {
         delete sport.playersCount;
         console.log(sport)
     }
-// 8 object
 
+
+    // 8 object
 const transport={
     type:'bus',
     passengersNumber:40,  
